@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "68249758603",
+    "project_id": "uth-todo-prod-2026",
+    "storage_bucket": "uth-todo-prod-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68249758603:android:2f5494fbc4741319911d8e",
+        "android_client_info": {
+          "package_name": "com.uthtodo.dpgh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68249758603-qu8ntdnvl0cn6khadg6cp8kub4bvs3ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uthtodo.dpgh",
+            "certificate_hash": "fbaaecdc7e3b7b907dfded8232b10df0ba77fa92"
+          }
+        },
+        {
+          "client_id": "68249758603-95l9trs1b04grod53bqsc8hvfrb6pib5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGSlfG_lLxC7h1rNX6hvplajLqIf0uzuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68249758603-95l9trs1b04grod53bqsc8hvfrb6pib5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
